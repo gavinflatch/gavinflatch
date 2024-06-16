@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gavinflatch
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning linux based systems / C++
+- 👀 I’m interested in Cybersecurity and Digital Forensics
+- 🌱 I’m currently learning linux based systems / C, C++, SQL, and Python
 - 💞️ I’m looking to collaborate on work
-- 📫 How to reach me ...
+- 📫 I'm currently learning bug bounty programs
